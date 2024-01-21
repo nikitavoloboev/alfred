@@ -1,0 +1,2 @@
+- clean up repo, readme
+- update workflows docs + rewrite in rust/ts or go (good code)
